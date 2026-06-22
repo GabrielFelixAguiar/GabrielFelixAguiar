@@ -31,14 +31,14 @@ I am passionate about technology and constantly seeking improvement, learning, a
 <div align="center"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </div>
 
 
-## 📈 Estatísticas do GitHub
+## 📈 Estatísticas do GitHub/GitHub Stats:
 <div>
 <a href="https://github.com/GabrielFelixAguiar">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelixAguiar&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFelixAguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## 🌐 Conecte-se Comigo
+## 🌐 Conecte-se Comigo/Connect with me:
 
 <div>
 <a href = "mailto:gabrielfelixdeaguiar@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
