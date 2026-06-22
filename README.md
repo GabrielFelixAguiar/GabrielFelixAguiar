@@ -1,55 +1,35 @@
 
 
- ## Olá Rede, me chamo Gabriel Felix ! 
+ ## Bem vindo ao meu perfil GitHub ! 
  
- ## Bem vindo ao meu perfil GitHub 👋
+ ## Hello network, welcome to my profile👋
 
-## 🚀 Sobre mim
-- 🔭 Atualmente estou trabalhando em Redes e Infraestrutura junto a isso sou desenvolvedor freelancer: Especialista em criação de sites, apps e softwares sob medida para clientes.
-- 🌱 Estudando no 6 período de Ciência da Computação, Realizando cursos web sobre programação e tecnologia
-## 🛠️ Habilidades
+## 🚀 Sobre mim [PT/BR].
+Olá, eu sou Gabriel 👋
 
-## Linguagens de Programação e Frameworks:
-<div align="center">
+Sou **Suporte Pleno na Trier Sistemas**, atuando no atendimento e suporte a diversos clientes, sempre buscando desenvolver soluções rápidas e eficientes para atender às necessidades do negócio.
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+Atualmente, estou me especializando como **Desenvolvedor de Software**, ampliando meus conhecimentos em tecnologias como **Python**, **Java** e diversos frameworks e ferramentas de desenvolvimento. Tenho interesse em desenvolvimento web, automação, bancos de dados e criação de soluções que gerem valor e inovação.
 
-</div>
+Sou apaixonado por tecnologia e estou em constante busca por aperfeiçoamento, aprendizado e evolução profissional, sempre procurando novos desafios e oportunidades para crescer na área de desenvolvimento.
+.
+# Hello, I'm Gabriel 👋 [EN-US]
 
-## Bancos de Dados:
-<div align="center">
+I am a **Full Support Analyst at Trier Sistemas**, working closely with multiple clients and always striving to deliver fast and efficient solutions that meet business needs.
 
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+Currently, I am specializing as a **Software Developer**, expanding my knowledge in technologies such as **Python**, **Java**, and various development frameworks and tools. I am particularly interested in web development, automation, databases, and building solutions that create value and drive innovation.
 
-</div>
+I am passionate about technology and constantly seeking improvement, learning, and professional growth, always looking for new challenges and opportunities to advance my career in software development.
 
-## Plataformas:
+## Linguagens de Programação e Frameworks/ Tech Stack:
 
-<div align="center">
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <br><br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/> </div>
 
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wix-000000?style=for-the-badge&logo=wix&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-</div>
+## Plataformas/Platforms:
 
-## Ferramentas de Design:
+<div align="center"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> </div>
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
-</div>
 
 ## 📈 Estatísticas do GitHub
 <div>
